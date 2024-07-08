@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0907-koko-eating-bananas](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0907-koko-eating-bananas) |
 | [0926-find-and-replace-pattern](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0926-find-and-replace-pattern) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
@@ -47,4 +48,8 @@
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Binary Search
+|  |
+| ------- |
+| [0907-koko-eating-bananas](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0907-koko-eating-bananas) |
 <!---LeetCode Topics End-->
