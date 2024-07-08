@@ -8,22 +8,30 @@ public:
         return cnt1;
     }
     int numberOfBeams(vector<string>& bank) {
-        vector<int >count;
         int lb=0;
-        for(auto str:bank)
-            count.push_back(count1(str));
-        int i=0;
-        while(i<count.size() && count[i]==0)
-            i++;
-        int j=i+1;
-        while(j<count.size()){
-            if(count[j]>0){
-                lb+=(count[i]*count[j]);
-                i=j;
-                j++;
+        // vector<int >count;
+        // for(auto str:bank)
+        //     count.push_back(count1(str));
+        // int i=0;
+        // while(i<count.size() && count[i]==0)
+        //     i++;
+        // int j=i+1;
+        // while(j<count.size()){
+        //     if(count[j]>0){
+        //         lb+=(count[i]*count[j]);
+        //         i=j;
+        //         j++;
+        //     }
+        //     else
+        //         j++;
+        // }
+        int prevCnt=0;
+        for(auto str:bank){
+            int currCnt=count1(str);
+            if(currCnt>0){
+                lb+=(prevCnt*currCnt);
+                prevCnt=currCnt;
             }
-            else
-                j++;
         }
         return lb;
     }
