@@ -17,6 +17,7 @@
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0012-integer-to-roman) |
 | [0443-string-compression](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0443-string-compression) |
 | [0807-custom-sort-string](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0807-custom-sort-string) |
