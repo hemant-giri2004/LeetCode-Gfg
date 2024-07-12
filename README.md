@@ -7,6 +7,7 @@
 | [0179-largest-number](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0204-count-primes) |
+| [0217-contains-duplicate](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0217-contains-duplicate) |
 | [0539-minimum-time-difference](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0539-minimum-time-difference) |
 | [0907-koko-eating-bananas](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0907-koko-eating-bananas) |
 | [0926-find-and-replace-pattern](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0926-find-and-replace-pattern) |
@@ -41,6 +42,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0012-integer-to-roman) |
+| [0217-contains-duplicate](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0217-contains-duplicate) |
 | [0778-reorganize-string](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0778-reorganize-string) |
 | [0807-custom-sort-string](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0807-custom-sort-string) |
 | [0926-find-and-replace-pattern](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0926-find-and-replace-pattern) |
@@ -50,6 +52,7 @@
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0217-contains-duplicate) |
 | [0539-minimum-time-difference](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0539-minimum-time-difference) |
 | [0778-reorganize-string](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0778-reorganize-string) |
 | [0807-custom-sort-string](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0807-custom-sort-string) |
