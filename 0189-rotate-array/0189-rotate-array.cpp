@@ -12,16 +12,16 @@ public:
         int n=nums.size();
         k%=n;
         int i=0,j=n-k-1;
-        while(i<j && j<nums.size()){
+        while(i<j && j<n){
             swap(nums[i],nums[j]);
             i++,j--;
         }
-        i=n-k,j=nums.size()-1;
+        i=n-k,j=n-1;
                 while(i<j){
             swap(nums[i],nums[j]);
             i++,j--;
         }
-        i=0,j=nums.size()-1;
+        i=0,j=n-1;
         while(i<j){
             swap(nums[i],nums[j]);
             i++,j--;
