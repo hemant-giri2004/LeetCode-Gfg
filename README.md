@@ -119,4 +119,8 @@
 |  |
 | ------- |
 | [2728-sum-in-a-matrix](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2728-sum-in-a-matrix) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
