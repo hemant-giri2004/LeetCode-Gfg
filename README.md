@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0179-largest-number](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0204-count-primes) |
@@ -65,6 +66,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0189-rotate-array) |
 | [0443-string-compression](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0443-string-compression) |
 | [2561-number-of-distinct-averages](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2561-number-of-distinct-averages) |
