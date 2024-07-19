@@ -69,6 +69,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0234-palindrome-linked-list) |
 | [0443-string-compression](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0443-string-compression) |
 | [2561-number-of-distinct-averages](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2561-number-of-distinct-averages) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -119,6 +120,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0032-longest-valid-parentheses) |
+| [0234-palindrome-linked-list](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0234-palindrome-linked-list) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 ## Simulation
 |  |
@@ -134,4 +136,12 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0032-longest-valid-parentheses) |
 | [0118-pascals-triangle](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0118-pascals-triangle) |
+## Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0234-palindrome-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
