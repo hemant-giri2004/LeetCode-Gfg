@@ -32,6 +32,7 @@
 | ------- |
 | [0006-zigzag-conversion](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0012-integer-to-roman) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0179-largest-number) |
@@ -82,6 +83,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0141-linked-list-cycle) |
@@ -194,4 +196,8 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0004-median-of-two-sorted-arrays) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
