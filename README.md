@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0035-search-insert-position) |
+| [0075-sort-colors](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0118-pascals-triangle) |
 | [0179-largest-number](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0179-largest-number) |
@@ -69,6 +70,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0217-contains-duplicate) |
@@ -87,6 +89,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0141-linked-list-cycle) |
