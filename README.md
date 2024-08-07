@@ -37,6 +37,7 @@
 | [0032-longest-valid-parentheses](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0179-largest-number) |
+| [0392-is-subsequence](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0443-string-compression) |
 | [0539-minimum-time-difference](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0539-minimum-time-difference) |
@@ -95,6 +96,7 @@
 | [0202-happy-number](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0443-string-compression) |
 | [0908-middle-of-the-linked-list](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -173,6 +175,7 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0032-longest-valid-parentheses) |
 | [0118-pascals-triangle](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0118-pascals-triangle) |
+| [0392-is-subsequence](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0392-is-subsequence) |
 ## Linked List
 |  |
 | ------- |
