@@ -123,6 +123,7 @@
 | [0189-rotate-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0415-add-strings) |
 | [0539-minimum-time-difference](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0539-minimum-time-difference) |
@@ -212,6 +213,7 @@
 | [0050-powx-n](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0203-remove-linked-list-elements) |
+| [0231-power-of-two](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0234-palindrome-linked-list) |
 ## Counting Sort
 |  |
@@ -232,5 +234,6 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
