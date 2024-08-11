@@ -39,6 +39,7 @@
 | [0012-integer-to-roman](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0012-integer-to-roman) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0032-longest-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0179-largest-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0387-first-unique-character-in-a-string) |
