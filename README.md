@@ -37,6 +37,7 @@
 | [0006-zigzag-conversion](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0012-integer-to-roman) |
+| [0020-valid-parentheses](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0058-length-of-last-word) |
@@ -174,6 +175,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0032-longest-valid-parentheses) |
 | [0143-reorder-list](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0234-palindrome-linked-list) |
