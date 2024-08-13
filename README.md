@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0088-merge-sorted-array) |
@@ -99,6 +100,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0125-valid-palindrome) |
@@ -177,6 +179,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0234-palindrome-linked-list) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
@@ -195,6 +198,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0118-pascals-triangle) |
 | [0392-is-subsequence](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0392-is-subsequence) |
 ## Linked List
@@ -244,4 +248,8 @@
 | ------- |
 | [0231-power-of-two](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0268-missing-number) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
