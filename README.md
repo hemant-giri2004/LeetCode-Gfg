@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0035-search-insert-position) |
@@ -96,6 +97,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0027-remove-element) |
@@ -167,6 +169,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0179-largest-number) |
 | [0778-reorganize-string](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0778-reorganize-string) |
 ## Heap (Priority Queue)
