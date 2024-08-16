@@ -23,6 +23,7 @@
 | [0268-missing-number](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0283-move-zeroes) |
 | [0539-minimum-time-difference](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0539-minimum-time-difference) |
+| [0658-find-k-closest-elements](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0658-find-k-closest-elements) |
 | [0907-koko-eating-bananas](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0907-koko-eating-bananas) |
 | [0926-find-and-replace-pattern](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0926-find-and-replace-pattern) |
 | [1137-height-checker](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1137-height-checker) |
@@ -93,6 +94,7 @@
 | [0217-contains-duplicate](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0268-missing-number) |
 | [0539-minimum-time-difference](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0539-minimum-time-difference) |
+| [0658-find-k-closest-elements](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0658-find-k-closest-elements) |
 | [0778-reorganize-string](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0778-reorganize-string) |
 | [0807-custom-sort-string](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0807-custom-sort-string) |
 | [1137-height-checker](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1137-height-checker) |
@@ -121,6 +123,7 @@
 | [0283-move-zeroes](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0443-string-compression) |
+| [0658-find-k-closest-elements](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0658-find-k-closest-elements) |
 | [0908-middle-of-the-linked-list](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2561-number-of-distinct-averages](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2561-number-of-distinct-averages) |
@@ -157,6 +160,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0268-missing-number) |
+| [0658-find-k-closest-elements](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0658-find-k-closest-elements) |
 | [0907-koko-eating-bananas](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0907-koko-eating-bananas) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 ## Matrix
@@ -182,6 +186,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0658-find-k-closest-elements) |
 | [0778-reorganize-string](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0778-reorganize-string) |
 | [2728-sum-in-a-matrix](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2728-sum-in-a-matrix) |
 ## Stack
@@ -266,4 +271,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0042-trapping-rain-water) |
+## Sliding Window
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
