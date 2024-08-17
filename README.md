@@ -24,6 +24,7 @@
 | [0283-move-zeroes](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0283-move-zeroes) |
 | [0539-minimum-time-difference](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0539-minimum-time-difference) |
 | [0658-find-k-closest-elements](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0658-find-k-closest-elements) |
+| [0724-find-pivot-index](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0724-find-pivot-index) |
 | [0907-koko-eating-bananas](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0907-koko-eating-bananas) |
 | [0926-find-and-replace-pattern](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0926-find-and-replace-pattern) |
 | [1137-height-checker](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1137-height-checker) |
@@ -67,6 +68,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1603-running-sum-of-1d-array) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 ## Hash Table
