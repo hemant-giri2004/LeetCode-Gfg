@@ -27,6 +27,7 @@
 | [0539-minimum-time-difference](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0539-minimum-time-difference) |
 | [0658-find-k-closest-elements](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0658-find-k-closest-elements) |
 | [0724-find-pivot-index](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0724-find-pivot-index) |
+| [0898-transpose-matrix](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0907-koko-eating-bananas) |
 | [0926-find-and-replace-pattern](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0926-find-and-replace-pattern) |
 | [1137-height-checker](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1137-height-checker) |
@@ -174,6 +175,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0048-rotate-image) |
+| [0898-transpose-matrix](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0898-transpose-matrix) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2728-sum-in-a-matrix](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2728-sum-in-a-matrix) |
 ## Enumeration
@@ -211,6 +213,7 @@
 | ------- |
 | [0412-fizz-buzz](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0415-add-strings) |
+| [0898-transpose-matrix](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0898-transpose-matrix) |
 | [2728-sum-in-a-matrix](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2728-sum-in-a-matrix) |
 ## Database
 |  |
