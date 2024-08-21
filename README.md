@@ -27,6 +27,7 @@
 | [0283-move-zeroes](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0287-find-the-duplicate-number) |
 | [0539-minimum-time-difference](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0539-minimum-time-difference) |
+| [0643-maximum-average-subarray-i](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0658-find-k-closest-elements) |
 | [0724-find-pivot-index](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0724-find-pivot-index) |
 | [0898-transpose-matrix](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0898-transpose-matrix) |
@@ -292,5 +293,6 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
