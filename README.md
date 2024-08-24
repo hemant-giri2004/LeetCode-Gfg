@@ -61,6 +61,7 @@
 | [0058-length-of-last-word](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0412-fizz-buzz) |
@@ -90,6 +91,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0387-first-unique-character-in-a-string) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -105,6 +107,7 @@
 | [0088-merge-sorted-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0268-missing-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0539-minimum-time-difference) |
