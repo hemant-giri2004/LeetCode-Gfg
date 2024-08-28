@@ -13,6 +13,7 @@
 | [0035-search-insert-position](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0066-plus-one) |
@@ -61,6 +62,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0179-largest-number) |
@@ -93,6 +95,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0012-integer-to-roman) |
+| [0049-group-anagrams](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0202-happy-number) |
@@ -111,6 +114,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0179-largest-number) |
