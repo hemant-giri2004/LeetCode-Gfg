@@ -79,6 +79,7 @@
 | [0807-custom-sort-string](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0807-custom-sort-string) |
 | [0926-find-and-replace-pattern](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0926-find-and-replace-pattern) |
 | [0953-reverse-only-letters](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0953-reverse-only-letters) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -252,6 +253,7 @@
 | [0042-trapping-rain-water](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0234-palindrome-linked-list) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 ## Simulation
 |  |
