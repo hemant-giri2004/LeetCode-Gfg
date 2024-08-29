@@ -54,6 +54,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0012-integer-to-roman) |
@@ -136,6 +137,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -267,6 +269,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0053-maximum-subarray) |
