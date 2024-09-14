@@ -24,6 +24,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0198-house-robber) |
@@ -108,6 +109,7 @@
 | [0049-group-anagrams](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0242-valid-anagram) |
@@ -128,6 +130,7 @@
 | [0049-group-anagrams](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0242-valid-anagram) |
@@ -206,6 +209,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0387-first-unique-character-in-a-string) |
 | [0778-reorganize-string](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0778-reorganize-string) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -332,6 +336,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0169-majority-element) |
 ## String Matching
 |  |
 | ------- |
