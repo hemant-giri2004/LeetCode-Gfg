@@ -276,6 +276,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0234-palindrome-linked-list) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
@@ -394,14 +395,17 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
