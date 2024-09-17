@@ -71,6 +71,7 @@
 | [0038-count-and-say](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0242-valid-anagram) |
@@ -195,6 +196,7 @@
 | [0048-rotate-image](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0202-happy-number) |
@@ -284,6 +286,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0415-add-strings) |
 | [0898-transpose-matrix](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0898-transpose-matrix) |
@@ -360,6 +363,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0268-missing-number) |
