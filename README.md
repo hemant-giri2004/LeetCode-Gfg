@@ -228,6 +228,7 @@
 | [0069-sqrtx](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0162-find-peak-element) |
+| [0222-count-complete-tree-nodes](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0349-intersection-of-two-arrays) |
@@ -367,6 +368,7 @@
 | [0067-add-binary](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0191-number-of-1-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0287-find-the-duplicate-number) |
@@ -403,6 +405,7 @@
 | [0100-same-tree](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0222-count-complete-tree-nodes) |
 | [0783-search-in-a-binary-search-tree](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0783-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
@@ -418,6 +421,7 @@
 | [0100-same-tree](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0222-count-complete-tree-nodes) |
 | [0783-search-in-a-binary-search-tree](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0783-search-in-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
