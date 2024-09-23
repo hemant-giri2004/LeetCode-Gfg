@@ -206,6 +206,7 @@
 | [0273-integer-to-english-words](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0273-integer-to-english-words) |
 | [0412-fizz-buzz](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0415-add-strings) |
+| [0504-base-7](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0504-base-7) |
 | [0539-minimum-time-difference](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0539-minimum-time-difference) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2106-find-greatest-common-divisor-of-array) |
