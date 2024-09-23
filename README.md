@@ -41,6 +41,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0658-find-k-closest-elements) |
 | [0724-find-pivot-index](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0724-find-pivot-index) |
+| [0792-binary-search](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0907-koko-eating-bananas) |
@@ -237,6 +238,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0658-find-k-closest-elements) |
+| [0792-binary-search](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0907-koko-eating-bananas) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
