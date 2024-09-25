@@ -49,6 +49,7 @@
 | [0948-sort-an-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0948-sort-an-array) |
 | [1137-height-checker](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1137-height-checker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1580-shuffle-the-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1603-running-sum-of-1d-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2106-find-greatest-common-divisor-of-array) |
