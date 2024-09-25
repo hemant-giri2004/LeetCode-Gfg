@@ -10,9 +10,7 @@ public:
             else
                 remainingSum+=n;
         }
-        if(singleDigitSum>doubleDigitSum+remainingSum)
-            return true;
-        else if(doubleDigitSum>singleDigitSum+remainingSum)
+        if(singleDigitSum>doubleDigitSum+remainingSum || doubleDigitSum>singleDigitSum+remainingSum)
             return true;
         return false;
     }
