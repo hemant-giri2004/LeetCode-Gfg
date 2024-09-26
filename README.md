@@ -318,6 +318,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0213-house-robber-ii) |
+| [0338-counting-bits](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0647-palindromic-substrings) |
 | [1013-fibonacci-number](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1013-fibonacci-number) |
@@ -384,6 +385,7 @@
 | [0231-power-of-two](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0338-counting-bits) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Monotonic Stack
 |  |
