@@ -211,6 +211,7 @@
 | [0231-power-of-two](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0273-integer-to-english-words) |
+| [0367-valid-perfect-square](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0504-base-7) |
@@ -243,6 +244,7 @@
 | [0287-find-the-duplicate-number](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0367-valid-perfect-square) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0658-find-k-closest-elements) |
 | [0792-binary-search](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0792-binary-search) |
