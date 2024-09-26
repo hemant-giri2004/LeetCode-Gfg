@@ -83,6 +83,7 @@
 | [0344-reverse-string](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0415-add-strings) |
@@ -125,6 +126,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0389-find-the-difference) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0778-reorganize-string](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0778-reorganize-string) |
 | [0807-custom-sort-string](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0807-custom-sort-string) |
@@ -145,6 +147,7 @@
 | [0268-missing-number](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0389-find-the-difference) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0539-minimum-time-difference) |
 | [0658-find-k-closest-elements](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0658-find-k-closest-elements) |
@@ -390,6 +393,7 @@
 | [0268-missing-number](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0338-counting-bits) |
+| [0389-find-the-difference](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0389-find-the-difference) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Monotonic Stack
 |  |
