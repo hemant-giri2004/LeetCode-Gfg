@@ -42,6 +42,7 @@
 | [0658-find-k-closest-elements](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0658-find-k-closest-elements) |
 | [0724-find-pivot-index](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0792-binary-search) |
+| [0859-design-circular-deque](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0859-design-circular-deque) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0907-koko-eating-bananas) |
@@ -345,6 +346,7 @@
 | [0203-remove-linked-list-elements](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0328-odd-even-linked-list) |
+| [0859-design-circular-deque](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0859-design-circular-deque) |
 | [0908-middle-of-the-linked-list](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -382,6 +384,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0387-first-unique-character-in-a-string) |
+| [0859-design-circular-deque](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0859-design-circular-deque) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -457,4 +460,8 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1013-fibonacci-number) |
+## Design
+|  |
+| ------- |
+| [0859-design-circular-deque](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0859-design-circular-deque) |
 <!---LeetCode Topics End-->
