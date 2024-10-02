@@ -49,6 +49,7 @@
 | [0926-find-and-replace-pattern](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0926-find-and-replace-pattern) |
 | [0948-sort-an-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0948-sort-an-array) |
 | [1137-height-checker](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1137-height-checker) |
+| [1256-rank-transform-of-an-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1256-rank-transform-of-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1580-shuffle-the-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1603-running-sum-of-1d-array) |
@@ -134,6 +135,7 @@
 | [0778-reorganize-string](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0778-reorganize-string) |
 | [0807-custom-sort-string](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0807-custom-sort-string) |
 | [0926-find-and-replace-pattern](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0926-find-and-replace-pattern) |
+| [1256-rank-transform-of-an-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1256-rank-transform-of-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2406-decode-the-message](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2406-decode-the-message) |
 | [2561-number-of-distinct-averages](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2561-number-of-distinct-averages) |
@@ -159,6 +161,7 @@
 | [0807-custom-sort-string](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0807-custom-sort-string) |
 | [0948-sort-an-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0948-sort-an-array) |
 | [1137-height-checker](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1137-height-checker) |
+| [1256-rank-transform-of-an-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1256-rank-transform-of-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2561-number-of-distinct-averages](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2561-number-of-distinct-averages) |
 | [2728-sum-in-a-matrix](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2728-sum-in-a-matrix) |
