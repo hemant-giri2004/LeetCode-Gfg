@@ -1,7 +1,7 @@
 class Solution {
 public:
     int minBitFlips(int start, int goal) {
-        int cnt=0,pos=0;
+        int cnt=0;
         while(start>0||goal>0){
             int bit1=start&1;
             int bit2=goal&1;
