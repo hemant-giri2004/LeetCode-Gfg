@@ -228,6 +228,7 @@
 | [0539-minimum-time-difference](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0539-minimum-time-difference) |
 | [1013-fibonacci-number](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1761-count-sorted-vowel-strings](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1761-count-sorted-vowel-strings) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2556-convert-the-temperature](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2556-convert-the-temperature) |
@@ -337,6 +338,7 @@
 | [0392-is-subsequence](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0647-palindromic-substrings) |
 | [1013-fibonacci-number](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1013-fibonacci-number) |
+| [1761-count-sorted-vowel-strings](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1761-count-sorted-vowel-strings) |
 ## Linked List
 |  |
 | ------- |
@@ -472,4 +474,8 @@
 |  |
 | ------- |
 | [0859-design-circular-deque](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0859-design-circular-deque) |
+## Combinatorics
+|  |
+| ------- |
+| [1761-count-sorted-vowel-strings](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1761-count-sorted-vowel-strings) |
 <!---LeetCode Topics End-->
