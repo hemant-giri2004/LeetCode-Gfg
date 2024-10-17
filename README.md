@@ -328,6 +328,7 @@
 | [0607-sales-person](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0607-sales-person) |
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1258-article-views-i](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1258-article-views-i) |
+| [1827-invalid-tweets](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1908-recyclable-and-low-fat-products) |
 ## Dynamic Programming
 |  |
