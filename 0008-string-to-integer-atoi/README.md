@@ -2,6 +2,8 @@
 
 <p>The algorithm for <code>myAtoi(string s)</code> is as follows:</p>
 
+
+
 <ol>
 	<li><strong>Whitespace</strong>: Ignore any leading whitespace (<code>&quot; &quot;</code>).</li>
 	<li><strong>Signedness</strong>: Determine the sign by checking if the next character is <code>&#39;-&#39;</code> or <code>&#39;+&#39;</code>, assuming positivity is neither present.</li>
