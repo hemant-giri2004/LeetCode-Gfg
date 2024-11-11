@@ -328,6 +328,7 @@
 | [0577-employee-bonus](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0595-big-countries) |
+| [0596-classes-more-than-5-students](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0596-classes-more-than-5-students) |
 | [0607-sales-person](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0607-sales-person) |
 | [0619-biggest-single-number](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0620-not-boring-movies) |
