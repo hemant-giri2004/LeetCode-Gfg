@@ -11,7 +11,7 @@ public:
         }
         return true;
     }
-    string longestPalindrome(string s) {
+    string longestPalindrome(string s) {   
         string ans;
         for(int i=0;i<s.size();i++){
             for(int j=i;j<s.size();j++){
