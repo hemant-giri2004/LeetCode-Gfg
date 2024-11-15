@@ -330,6 +330,7 @@
 | [0595-big-countries](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0595-big-countries) |
 | [0596-classes-more-than-5-students](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0596-classes-more-than-5-students) |
 | [0607-sales-person](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0607-sales-person) |
+| [0610-triangle-judgement](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0620-not-boring-movies) |
 | [1135-customers-who-bought-all-products](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1135-customers-who-bought-all-products) |
