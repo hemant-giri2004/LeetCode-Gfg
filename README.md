@@ -19,6 +19,7 @@
 | [0066-plus-one](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -80,6 +81,7 @@
 | [0049-group-anagrams](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0242-valid-anagram) |
@@ -270,6 +272,7 @@
 | [0048-rotate-image](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0079-word-search) |
 | [0898-transpose-matrix](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0898-transpose-matrix) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2728-sum-in-a-matrix](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2728-sum-in-a-matrix) |
@@ -493,6 +496,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0144-binary-tree-preorder-traversal) |
@@ -526,4 +530,8 @@
 |  |
 | ------- |
 | [1761-count-sorted-vowel-strings](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1761-count-sorted-vowel-strings) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
