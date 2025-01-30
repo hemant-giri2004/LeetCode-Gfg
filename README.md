@@ -94,6 +94,7 @@
 | [0412-fizz-buzz](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0443-string-compression) |
+| [0520-detect-capital](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0520-detect-capital) |
 | [0539-minimum-time-difference](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0539-minimum-time-difference) |
 | [0647-palindromic-substrings](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0680-valid-palindrome-ii) |
