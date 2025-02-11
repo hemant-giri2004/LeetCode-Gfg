@@ -63,6 +63,7 @@
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2561-number-of-distinct-averages](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2561-number-of-distinct-averages) |
 | [2728-sum-in-a-matrix](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2728-sum-in-a-matrix) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -146,6 +147,7 @@
 | [2406-decode-the-message](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2406-decode-the-message) |
 | [2434-design-a-number-container-system](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2434-design-a-number-container-system) |
 | [2561-number-of-distinct-averages](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2561-number-of-distinct-averages) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Sorting
 |  |
@@ -250,6 +252,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0387-first-unique-character-in-a-string) |
 | [0778-reorganize-string](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0778-reorganize-string) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Binary Search
 |  |
 | ------- |
