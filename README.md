@@ -35,6 +35,7 @@
 | [0213-house-robber-ii](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0217-contains-duplicate) |
+| [0240-search-a-2d-matrix-ii](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0287-find-the-duplicate-number) |
@@ -267,6 +268,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0222-count-complete-tree-nodes) |
+| [0240-search-a-2d-matrix-ii](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0349-intersection-of-two-arrays) |
@@ -285,6 +287,7 @@
 | [0054-spiral-matrix](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0079-word-search) |
+| [0240-search-a-2d-matrix-ii](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0240-search-a-2d-matrix-ii) |
 | [0898-transpose-matrix](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0898-transpose-matrix) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2728-sum-in-a-matrix](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2728-sum-in-a-matrix) |
@@ -450,6 +453,7 @@
 | [0169-majority-element](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0215-kth-largest-element-in-an-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0240-search-a-2d-matrix-ii) |
 | [0948-sort-an-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0948-sort-an-array) |
 ## String Matching
 |  |
