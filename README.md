@@ -42,6 +42,7 @@
 | [0268-missing-number](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0485-max-consecutive-ones) |
@@ -412,6 +413,7 @@
 | [0152-maximum-product-subarray](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0647-palindromic-substrings) |
@@ -550,6 +552,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0100-same-tree) |
+| [0322-coin-change](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0322-coin-change) |
 ## Memoization
 |  |
 | ------- |
