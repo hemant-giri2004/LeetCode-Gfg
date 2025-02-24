@@ -235,6 +235,7 @@
 | [0066-plus-one](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0204-count-primes) |
@@ -408,6 +409,7 @@
 | [0032-longest-valid-parentheses](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0152-maximum-product-subarray) |
@@ -556,6 +558,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1013-fibonacci-number) |
 ## Design
 |  |
