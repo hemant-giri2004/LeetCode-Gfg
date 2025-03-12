@@ -1,6 +1,7 @@
 int myAtoi(char* s) {
     long num = 0;
     int sign = 1, b = 1, i = 0;
+    
     while (s[i] == ' ')
         i++;
     if(s[i]=='+'||s[i]=='-'){
