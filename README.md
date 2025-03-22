@@ -18,6 +18,7 @@
 | [0053-maximum-subarray](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0079-word-search) |
@@ -140,6 +141,7 @@
 | [0001-two-sum](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0169-majority-element) |
@@ -306,6 +308,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0240-search-a-2d-matrix-ii) |
