@@ -1,7 +1,5 @@
 class Solution {
-
 public:
-
     string convert(string s, int numRows) {
         if(numRows==1)  return s;
         vector<string> zigzag(numRows);
@@ -9,7 +7,6 @@ public:
         bool direction=1;
         while(1){
             if(direction){
-                
                 while(row<numRows && i<s.size()){
                     zigzag[row++].push_back(s[i++]);
                 }
