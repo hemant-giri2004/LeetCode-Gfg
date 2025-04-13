@@ -3,6 +3,7 @@ int removeElement(int* nums, int numsSize, int val) {
     while(i<numsSize){
         if(nums[i]!=val){
             nums[k]=nums[i];
+            
             k++;
         }
         i++;
