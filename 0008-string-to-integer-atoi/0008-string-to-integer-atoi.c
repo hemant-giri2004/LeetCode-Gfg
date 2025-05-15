@@ -11,7 +11,6 @@ int myAtoi(char* s) {
     }
     while(s[i] >= '0' && s[i] <= '9'){
 
-        
         num = num * 10 + (int)(s[i] - '0');
         if (num > INT_MAX) 
              return (sign == 1) ? INT_MAX : INT_MIN;
