@@ -87,6 +87,7 @@
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3533-snake-in-matrix](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3533-snake-in-matrix) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## String
 |  |
 | ------- |
@@ -178,6 +179,7 @@
 | [2561-number-of-distinct-averages](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2561-number-of-distinct-averages) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Sorting
 |  |
 | ------- |
@@ -347,6 +349,7 @@
 | [0179-largest-number](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0179-largest-number) |
 | [0680-valid-palindrome-ii](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0680-valid-palindrome-ii) |
 | [0778-reorganize-string](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0778-reorganize-string) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
