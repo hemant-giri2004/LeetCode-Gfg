@@ -88,6 +88,7 @@
 | [3515-find-if-digit-game-can-be-won](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3533-snake-in-matrix](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3533-snake-in-matrix) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## String
 |  |
 | ------- |
@@ -145,6 +146,7 @@
 | [1603-running-sum-of-1d-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1603-running-sum-of-1d-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Hash Table
 |  |
 | ------- |
@@ -337,6 +339,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0204-count-primes) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Number Theory
 |  |
 | ------- |
@@ -636,4 +639,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0128-longest-consecutive-sequence) |
+## Segment Tree
+|  |
+| ------- |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 <!---LeetCode Topics End-->
