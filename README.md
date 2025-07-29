@@ -81,6 +81,7 @@
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2561-number-of-distinct-averages](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2561-number-of-distinct-averages) |
 | [2728-sum-in-a-matrix](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2728-sum-in-a-matrix) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -325,6 +326,7 @@
 | [0882-peak-index-in-a-mountain-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0907-koko-eating-bananas) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Matrix
 |  |
 | ------- |
@@ -543,6 +545,7 @@
 | [0389-find-the-difference](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0389-find-the-difference) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Monotonic Stack
 |  |
@@ -554,6 +557,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0658-find-k-closest-elements) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Trie
 |  |
 | ------- |
