@@ -85,6 +85,7 @@
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2561-number-of-distinct-averages](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2561-number-of-distinct-averages) |
+| [2689-rearranging-fruits](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2689-rearranging-fruits) |
 | [2728-sum-in-a-matrix](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2728-sum-in-a-matrix) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
@@ -184,6 +185,7 @@
 | [2406-decode-the-message](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2406-decode-the-message) |
 | [2434-design-a-number-container-system](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2434-design-a-number-container-system) |
 | [2561-number-of-distinct-averages](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2561-number-of-distinct-averages) |
+| [2689-rearranging-fruits](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2689-rearranging-fruits) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -215,6 +217,7 @@
 | [1256-rank-transform-of-an-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1256-rank-transform-of-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2561-number-of-distinct-averages](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2561-number-of-distinct-averages) |
+| [2689-rearranging-fruits](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2689-rearranging-fruits) |
 | [2728-sum-in-a-matrix](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2728-sum-in-a-matrix) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Two Pointers
@@ -359,6 +362,7 @@
 | [0179-largest-number](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0179-largest-number) |
 | [0680-valid-palindrome-ii](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0680-valid-palindrome-ii) |
 | [0778-reorganize-string](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0778-reorganize-string) |
+| [2689-rearranging-fruits](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2689-rearranging-fruits) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Heap (Priority Queue)
 |  |
