@@ -292,6 +292,7 @@
 | [0415-add-strings](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0504-base-7) |
 | [0539-minimum-time-difference](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0539-minimum-time-difference) |
+| [0826-soup-servings](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0826-soup-servings) |
 | [1013-fibonacci-number](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -483,6 +484,7 @@
 | [0338-counting-bits](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0647-palindromic-substrings) |
+| [0826-soup-servings](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0826-soup-servings) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1013-fibonacci-number) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -684,4 +686,8 @@
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
