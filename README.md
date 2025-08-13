@@ -290,6 +290,7 @@
 | [0231-power-of-two](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0273-integer-to-english-words) |
+| [0326-power-of-three](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0412-fizz-buzz) |
@@ -531,6 +532,7 @@
 | [0231-power-of-two](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0234-palindrome-linked-list) |
 | [0273-integer-to-english-words](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0273-integer-to-english-words) |
+| [0326-power-of-three](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1013-fibonacci-number) |
 ## Counting Sort
 |  |
