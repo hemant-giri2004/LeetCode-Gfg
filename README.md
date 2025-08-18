@@ -57,6 +57,7 @@
 | [0539-minimum-time-difference](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0539-minimum-time-difference) |
 | [0643-maximum-average-subarray-i](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0658-find-k-closest-elements) |
+| [0679-24-game](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0679-24-game) |
 | [0724-find-pivot-index](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0792-binary-search) |
 | [0859-design-circular-deque](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0859-design-circular-deque) |
@@ -299,6 +300,7 @@
 | [0415-add-strings](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0504-base-7) |
 | [0539-minimum-time-difference](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0539-minimum-time-difference) |
+| [0679-24-game](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0900-reordered-power-of-2) |
@@ -675,6 +677,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0079-word-search) |
+| [0679-24-game](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0679-24-game) |
 | [2107-find-unique-binary-string](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2107-find-unique-binary-string) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Quickselect
