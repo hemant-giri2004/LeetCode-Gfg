@@ -70,6 +70,7 @@
 | [0948-sort-an-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0948-sort-an-array) |
 | [1137-height-checker](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1137-height-checker) |
 | [1256-rank-transform-of-an-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1256-rank-transform-of-an-array) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1580-shuffle-the-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1580-shuffle-the-array) |
@@ -368,6 +369,7 @@
 | [0079-word-search](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0240-search-a-2d-matrix-ii) |
 | [0898-transpose-matrix](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0898-transpose-matrix) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2728-sum-in-a-matrix](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2728-sum-in-a-matrix) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -505,6 +507,7 @@
 | [0867-new-21-game](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1013-fibonacci-number) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1761-count-sorted-vowel-strings](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1761-count-sorted-vowel-strings) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
