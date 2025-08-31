@@ -14,6 +14,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0048-rotate-image) |
@@ -179,6 +180,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0073-set-matrix-zeroes) |
@@ -373,6 +375,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0073-set-matrix-zeroes) |
@@ -704,6 +707,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0079-word-search) |
 | [0679-24-game](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0679-24-game) |
 | [2107-find-unique-binary-string](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2107-find-unique-binary-string) |
