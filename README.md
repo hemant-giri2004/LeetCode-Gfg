@@ -101,6 +101,7 @@
 | [2728-sum-in-a-matrix](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2728-sum-in-a-matrix) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -245,6 +246,7 @@
 | [2561-number-of-distinct-averages](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2561-number-of-distinct-averages) |
 | [2689-rearranging-fruits](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2689-rearranging-fruits) |
 | [2728-sum-in-a-matrix](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2728-sum-in-a-matrix) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3748-sort-matrix-by-diagonals](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3748-sort-matrix-by-diagonals) |
 ## Two Pointers
@@ -328,6 +330,7 @@
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2556-convert-the-temperature](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2556-convert-the-temperature) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -398,6 +401,7 @@
 | [0204-count-primes](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0204-count-primes) |
 | [0900-reordered-power-of-2](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0900-reordered-power-of-2) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Number Theory
 |  |
@@ -749,4 +753,8 @@
 | ------- |
 | [0826-soup-servings](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0867-new-21-game) |
+## Geometry
+|  |
+| ------- |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 <!---LeetCode Topics End-->
