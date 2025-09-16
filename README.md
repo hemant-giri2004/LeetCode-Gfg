@@ -93,6 +93,7 @@
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
@@ -346,6 +347,7 @@
 | [1761-count-sorted-vowel-strings](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1761-count-sorted-vowel-strings) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2556-convert-the-temperature](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2556-convert-the-temperature) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -433,6 +435,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0204-count-primes) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Greedy
 |  |
 | ------- |
@@ -471,6 +474,7 @@
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1628-count-submatrices-with-all-ones](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1628-count-submatrices-with-all-ones) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Simulation
 |  |
 | ------- |
