@@ -95,6 +95,7 @@
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2429-design-a-food-rating-system](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -169,6 +170,7 @@
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2406-decode-the-message](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2406-decode-the-message) |
+| [2429-design-a-food-rating-system](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2429-design-a-food-rating-system) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2887-sort-vowels-in-a-string](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3462-vowels-game-in-a-string) |
@@ -223,6 +225,7 @@
 | [1834-minimum-number-of-people-to-teach](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2107-find-unique-binary-string](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2107-find-unique-binary-string) |
 | [2406-decode-the-message](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2406-decode-the-message) |
+| [2429-design-a-food-rating-system](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2434-design-a-number-container-system) |
 | [2561-number-of-distinct-averages](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2561-number-of-distinct-averages) |
 | [2689-rearranging-fruits](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2689-rearranging-fruits) |
@@ -458,6 +461,7 @@
 | [0778-reorganize-string](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0778-reorganize-string) |
 | [0948-sort-an-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0948-sort-an-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1917-maximum-average-pass-ratio) |
+| [2429-design-a-food-rating-system](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2434-design-a-number-container-system) |
 | [2728-sum-in-a-matrix](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2728-sum-in-a-matrix) |
 ## Stack
@@ -741,6 +745,7 @@
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0295-find-median-from-data-stream) |
 | [0859-design-circular-deque](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0859-design-circular-deque) |
+| [2429-design-a-food-rating-system](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2434-design-a-number-container-system) |
 ## Combinatorics
 |  |
@@ -762,6 +767,7 @@
 ## Ordered Set
 |  |
 | ------- |
+| [2429-design-a-food-rating-system](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2434-design-a-number-container-system) |
 | [3790-fruits-into-baskets-ii](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3791-fruits-into-baskets-iii) |
