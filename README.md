@@ -122,6 +122,7 @@
 | [3790-fruits-into-baskets-ii](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3791-fruits-into-baskets-iii) |
 | [3797-design-spreadsheet](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3827-implement-router) |
 ## String
 |  |
 | ------- |
@@ -236,6 +237,7 @@
 | [3678-design-task-manager](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3678-design-task-manager) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
 |  |
@@ -407,6 +409,7 @@
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3790-fruits-into-baskets-ii](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3827-implement-router) |
 ## Matrix
 |  |
 | ------- |
@@ -647,6 +650,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0387-first-unique-character-in-a-string) |
 | [0859-design-circular-deque](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0859-design-circular-deque) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [3827-implement-router](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3827-implement-router) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -755,6 +759,7 @@
 | [2434-design-a-number-container-system](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2434-design-a-number-container-system) |
 | [3678-design-task-manager](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3827-implement-router) |
 ## Combinatorics
 |  |
 | ------- |
@@ -780,6 +785,7 @@
 | [3678-design-task-manager](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3827-implement-router) |
 ## Data Stream
 |  |
 | ------- |
