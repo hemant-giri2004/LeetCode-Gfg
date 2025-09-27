@@ -65,6 +65,7 @@
 | [0679-24-game](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0679-24-game) |
 | [0724-find-pivot-index](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0792-binary-search) |
+| [0830-largest-triangle-area](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0830-largest-triangle-area) |
 | [0859-design-circular-deque](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0859-design-circular-deque) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0898-transpose-matrix) |
@@ -355,6 +356,7 @@
 | [0539-minimum-time-difference](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0539-minimum-time-difference) |
 | [0679-24-game](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0826-soup-servings) |
+| [0830-largest-triangle-area](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1013-fibonacci-number) |
@@ -831,6 +833,7 @@
 ## Geometry
 |  |
 | ------- |
+| [0830-largest-triangle-area](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0830-largest-triangle-area) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Game Theory
