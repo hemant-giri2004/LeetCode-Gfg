@@ -76,6 +76,7 @@
 | [0948-sort-an-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0948-sort-an-array) |
 | [1006-vowel-spellchecker](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1018-largest-perimeter-triangle) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1137-height-checker](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1137-height-checker) |
 | [1256-rank-transform-of-an-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1256-rank-transform-of-an-array) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -599,6 +600,7 @@
 | [0867-new-21-game](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1013-fibonacci-number) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1628-count-submatrices-with-all-ones) |
