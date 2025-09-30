@@ -101,6 +101,7 @@
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2429-design-a-food-rating-system](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
@@ -374,6 +375,7 @@
 | [2106-find-greatest-common-divisor-of-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2556-convert-the-temperature](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2556-convert-the-temperature) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -518,6 +520,7 @@
 | [0415-add-strings](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0415-add-strings) |
 | [0498-diagonal-traverse](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0498-diagonal-traverse) |
 | [0898-transpose-matrix](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0898-transpose-matrix) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2728-sum-in-a-matrix](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2728-sum-in-a-matrix) |
 | [3533-snake-in-matrix](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3533-snake-in-matrix) |
@@ -788,6 +791,7 @@
 |  |
 | ------- |
 | [1761-count-sorted-vowel-strings](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1761-count-sorted-vowel-strings) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Backtracking
 |  |
 | ------- |
