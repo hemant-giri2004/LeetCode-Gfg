@@ -55,6 +55,7 @@
 | [0347-top-k-frequent-elements](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0407-trapping-rain-water-ii](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0407-trapping-rain-water-ii) |
 | [0485-max-consecutive-ones](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0485-max-consecutive-ones) |
 | [0498-diagonal-traverse](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0498-diagonal-traverse) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -443,6 +444,7 @@
 | [0074-search-a-2d-matrix](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0240-search-a-2d-matrix-ii) |
+| [0407-trapping-rain-water-ii](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0498-diagonal-traverse) |
 | [0898-transpose-matrix](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0898-transpose-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -489,6 +491,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0347-top-k-frequent-elements) |
+| [0407-trapping-rain-water-ii](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0407-trapping-rain-water-ii) |
 | [0658-find-k-closest-elements](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0658-find-k-closest-elements) |
 | [0778-reorganize-string](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0778-reorganize-string) |
 | [0948-sort-an-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0948-sort-an-array) |
@@ -774,6 +777,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0100-same-tree) |
 | [0322-coin-change](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0322-coin-change) |
+| [0407-trapping-rain-water-ii](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0407-trapping-rain-water-ii) |
 ## Memoization
 |  |
 | ------- |
