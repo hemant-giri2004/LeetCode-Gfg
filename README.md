@@ -106,6 +106,7 @@
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2429-design-a-food-rating-system](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
@@ -285,6 +286,7 @@
 | [1137-height-checker](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1137-height-checker) |
 | [1256-rank-transform-of-an-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1256-rank-transform-of-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2561-number-of-distinct-averages](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2561-number-of-distinct-averages) |
 | [2689-rearranging-fruits](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2689-rearranging-fruits) |
 | [2728-sum-in-a-matrix](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2728-sum-in-a-matrix) |
@@ -333,6 +335,7 @@
 | [0908-middle-of-the-linked-list](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0908-middle-of-the-linked-list) |
 | [0953-reverse-only-letters](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0953-reverse-only-letters) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2561-number-of-distinct-averages](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2561-number-of-distinct-averages) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Math
@@ -435,6 +438,7 @@
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1612-avoid-flood-in-the-city](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1612-avoid-flood-in-the-city) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3790-fruits-into-baskets-ii](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3791-fruits-into-baskets-iii) |
