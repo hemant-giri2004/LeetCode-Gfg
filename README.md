@@ -205,6 +205,7 @@
 | [3462-vowels-game-in-a-string](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3462-vowels-game-in-a-string) |
 | [3533-snake-in-matrix](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3533-snake-in-matrix) |
 | [3567-convert-date-to-binary](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3567-convert-date-to-binary) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3797-design-spreadsheet](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Prefix Sum
@@ -420,6 +421,7 @@
 | [3515-find-if-digit-game-can-be-won](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3567-convert-date-to-binary](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3567-convert-date-to-binary) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3830-find-closest-person) |
 ## Counting
 |  |
@@ -512,6 +514,7 @@
 | [0204-count-primes](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0204-count-primes) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Greedy
 |  |
 | ------- |
@@ -577,6 +580,7 @@
 | [2728-sum-in-a-matrix](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2728-sum-in-a-matrix) |
 | [3336-water-bottles-ii](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3336-water-bottles-ii) |
 | [3533-snake-in-matrix](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3533-snake-in-matrix) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3790-fruits-into-baskets-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Database
@@ -857,6 +861,7 @@
 | ------- |
 | [1761-count-sorted-vowel-strings](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1761-count-sorted-vowel-strings) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Backtracking
 |  |
 | ------- |
