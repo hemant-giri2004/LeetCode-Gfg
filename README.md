@@ -102,6 +102,7 @@
 | [2106-find-greatest-common-divisor-of-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2107-find-unique-binary-string](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2107-find-unique-binary-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2169-simple-bank-system](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2169-simple-bank-system) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -262,6 +263,7 @@
 | [1834-minimum-number-of-people-to-teach](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2023-design-movie-rental-system](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2023-design-movie-rental-system) |
 | [2107-find-unique-binary-string](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2107-find-unique-binary-string) |
+| [2169-simple-bank-system](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2406-decode-the-message](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2406-decode-the-message) |
 | [2429-design-a-food-rating-system](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2429-design-a-food-rating-system) |
@@ -580,6 +582,7 @@
 | [0898-transpose-matrix](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0898-transpose-matrix) |
 | [1642-water-bottles](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1642-water-bottles) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2169-simple-bank-system](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2169-simple-bank-system) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2728-sum-in-a-matrix](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2728-sum-in-a-matrix) |
@@ -856,6 +859,7 @@
 | [0295-find-median-from-data-stream](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0295-find-median-from-data-stream) |
 | [0859-design-circular-deque](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0859-design-circular-deque) |
 | [2023-design-movie-rental-system](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2023-design-movie-rental-system) |
+| [2169-simple-bank-system](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2169-simple-bank-system) |
 | [2429-design-a-food-rating-system](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2434-design-a-number-container-system) |
 | [3678-design-task-manager](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3678-design-task-manager) |
