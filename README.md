@@ -427,6 +427,7 @@
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3567-convert-date-to-binary](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3567-convert-date-to-binary) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3830-find-closest-person) |
@@ -773,6 +774,7 @@
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Monotonic Stack
 |  |
