@@ -6,6 +6,10 @@ public:
             if((n>>i)&1)
                 lastpos=i;
         }
-        return pow(2,lastpos+1)-1;
+        int result=0;
+        for(int i=0;i<=lastpos;i++){
+            result=(result<<1)|1;
+        }
+        return result;
     }
 };
