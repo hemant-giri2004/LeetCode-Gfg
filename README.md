@@ -133,6 +133,7 @@
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3533-snake-in-matrix](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3533-snake-in-matrix) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -278,6 +279,7 @@
 | [3242-count-elements-with-maximum-frequency](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3678-design-task-manager](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3678-design-task-manager) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3797-design-spreadsheet) |
@@ -429,6 +431,7 @@
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3567-convert-date-to-binary](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3567-convert-date-to-binary) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
