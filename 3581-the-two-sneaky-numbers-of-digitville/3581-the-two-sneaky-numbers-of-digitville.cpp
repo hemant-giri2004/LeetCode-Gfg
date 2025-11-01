@@ -1,16 +1,42 @@
 class Solution {
 public:
     vector<int> getSneakyNumbers(vector<int>& nums) {
-        unordered_map<int,int> mp;
-        for(int num:nums){
-            mp[num]++;
+        //0....n-1
+        int n = nums.size() - 2;
+
+        int XOR = 0; //a^b
+
+        for(int &num : nums) {
+            XOR ^= num;
         }
-        vector<int> result;
-        for(auto it:mp){
-            if(it.second>1){
-                result.push_back(it.first);
+
+        for(int num = 0; num <= n-1; num++) { //original list
+            XOR ^= num;
+        }
+
+        int trailZeroCount = __builtin_ctz(XOR);
+        int mask = 1 << trailZeroCount;
+
+        int G1 = 0;
+        int G2 = 0;
+
+
+        for(int &num : nums) {
+            if(num & mask) {
+                G1 ^= num;
+            } else {
+                G2 ^= num;
             }
         }
-        return result;
+
+        for(int num = 0; num <= n-1; num++) {
+            if(num & mask) {
+                G1 ^= num;
+            } else {
+                G2 ^= num;
+            }
+        }
+
+        return {G1, G2};
     }
 };
