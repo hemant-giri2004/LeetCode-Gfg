@@ -57,6 +57,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0417-pacific-atlantic-water-flow) |
+| [0474-ones-and-zeroes](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0485-max-consecutive-ones) |
 | [0498-diagonal-traverse](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0498-diagonal-traverse) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -188,6 +189,7 @@
 | [0412-fizz-buzz](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0443-string-compression) |
+| [0474-ones-and-zeroes](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0474-ones-and-zeroes) |
 | [0520-detect-capital](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0520-detect-capital) |
 | [0539-minimum-time-difference](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0539-minimum-time-difference) |
 | [0647-palindromic-substrings](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0647-palindromic-substrings) |
@@ -701,6 +703,7 @@
 | [0322-coin-change](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0392-is-subsequence) |
+| [0474-ones-and-zeroes](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0474-ones-and-zeroes) |
 | [0647-palindromic-substrings](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0647-palindromic-substrings) |
 | [0826-soup-servings](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0867-new-21-game) |
