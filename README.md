@@ -211,6 +211,7 @@
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2107-find-unique-binary-string](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2107-find-unique-binary-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -237,6 +238,7 @@
 | [0724-find-pivot-index](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1603-running-sum-of-1d-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2529-range-product-queries-of-powers](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2529-range-product-queries-of-powers) |
@@ -285,6 +287,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1612-avoid-flood-in-the-city](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1612-avoid-flood-in-the-city) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2023-design-movie-rental-system](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2023-design-movie-rental-system) |
 | [2107-find-unique-binary-string](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2107-find-unique-binary-string) |
 | [2169-simple-bank-system](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2169-simple-bank-system) |
@@ -828,6 +831,7 @@
 | [0389-find-the-difference](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0389-find-the-difference) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
