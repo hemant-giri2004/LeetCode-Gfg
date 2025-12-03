@@ -9,6 +9,7 @@ int strStr(char* haystack, char* needle) {
         }
         i++;
         j = 0;
+        
     }
     return -1;
 }
