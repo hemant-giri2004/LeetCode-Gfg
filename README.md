@@ -107,6 +107,7 @@
 | [2106-find-greatest-common-divisor-of-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2107-find-unique-binary-string](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2107-find-unique-binary-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2169-simple-bank-system](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2169-simple-bank-system) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -349,6 +350,7 @@
 | [1256-rank-transform-of-an-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1256-rank-transform-of-an-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2561-number-of-distinct-averages](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2561-number-of-distinct-averages) |
@@ -519,6 +521,7 @@
 | [0907-koko-eating-bananas](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0907-koko-eating-bananas) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1612-avoid-flood-in-the-city](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1612-avoid-flood-in-the-city) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -590,6 +593,7 @@
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1917-maximum-average-pass-ratio) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2689-rearranging-fruits) |
