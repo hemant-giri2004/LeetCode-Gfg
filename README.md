@@ -144,6 +144,7 @@
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3533-snake-in-matrix](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3533-snake-in-matrix) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -247,6 +248,7 @@
 | [2618-maximize-the-minimum-powered-city](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2625-increment-submatrices-by-one) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
@@ -752,6 +754,7 @@
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Linked List
@@ -818,6 +821,7 @@
 | [0859-design-circular-deque](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0859-design-circular-deque) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3827-implement-router](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3827-implement-router) |
 ## Bit Manipulation
 |  |
@@ -870,6 +874,7 @@
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -1029,4 +1034,8 @@
 |  |
 | ------- |
 | [3863-power-grid-maintenance](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3863-power-grid-maintenance) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 <!---LeetCode Topics End-->
