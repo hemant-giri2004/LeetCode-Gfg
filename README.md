@@ -138,6 +138,7 @@
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
+| [3433-count-mentions-per-user](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3433-count-mentions-per-user) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -364,6 +365,7 @@
 | [2887-sort-vowels-in-a-string](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2887-sort-vowels-in-a-string) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3433-count-mentions-per-user](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3433-count-mentions-per-user) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3531-count-covered-buildings](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3531-count-covered-buildings) |
@@ -476,6 +478,7 @@
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3336-water-bottles-ii](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3336-water-bottles-ii) |
+| [3433-count-mentions-per-user](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3433-count-mentions-per-user) |
 | [3462-vowels-game-in-a-string](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3462-vowels-game-in-a-string) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -670,6 +673,7 @@
 | [2408-number-of-people-aware-of-a-secret](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2728-sum-in-a-matrix](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2728-sum-in-a-matrix) |
 | [3336-water-bottles-ii](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3336-water-bottles-ii) |
+| [3433-count-mentions-per-user](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3433-count-mentions-per-user) |
 | [3533-snake-in-matrix](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3533-snake-in-matrix) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
