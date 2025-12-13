@@ -152,6 +152,7 @@
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3583-count-special-triplets) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
+| [3606-coupon-code-validator](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -236,6 +237,7 @@
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3533-snake-in-matrix](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3533-snake-in-matrix) |
 | [3567-convert-date-to-binary](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3567-convert-date-to-binary) |
+| [3606-coupon-code-validator](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3606-coupon-code-validator) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3797-design-spreadsheet](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -317,6 +319,7 @@
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3583-count-special-triplets) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
+| [3606-coupon-code-validator](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3678-design-task-manager](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3678-design-task-manager) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -369,6 +372,7 @@
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3531-count-covered-buildings](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3531-count-covered-buildings) |
+| [3606-coupon-code-validator](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3606-coupon-code-validator) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3748-sort-matrix-by-diagonals) |
 ## Two Pointers
