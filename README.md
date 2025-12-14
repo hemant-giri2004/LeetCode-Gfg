@@ -224,6 +224,7 @@
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2107-find-unique-binary-string](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2107-find-unique-binary-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -468,6 +469,7 @@
 | [1817-calculate-money-in-leetcode-bank](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1925-count-square-sum-triples](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1925-count-square-sum-triples) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2288-count-operations-to-obtain-zero](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2288-count-operations-to-obtain-zero) |
@@ -771,6 +773,7 @@
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1761-count-sorted-vowel-strings](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1761-count-sorted-vowel-strings) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
