@@ -79,6 +79,7 @@
 | [0934-bitwise-ors-of-subarrays](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0948-sort-an-array) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1006-vowel-spellchecker](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1018-largest-perimeter-triangle) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -216,6 +217,7 @@
 | [0807-custom-sort-string](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0807-custom-sort-string) |
 | [0926-find-and-replace-pattern](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0926-find-and-replace-pattern) |
 | [0953-reverse-only-letters](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0953-reverse-only-letters) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1006-vowel-spellchecker](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1006-vowel-spellchecker) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -613,6 +615,7 @@
 | [0611-valid-triangle-number](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0680-valid-palindrome-ii) |
 | [0778-reorganize-string](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0778-reorganize-string) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1448-maximum-69-number) |
 | [1612-avoid-flood-in-the-city](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1612-avoid-flood-in-the-city) |
