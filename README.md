@@ -171,6 +171,7 @@
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3748-sort-matrix-by-diagonals](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3748-sort-matrix-by-diagonals) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
+| [3785-minimum-swaps-to-avoid-forbidden-values](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3785-minimum-swaps-to-avoid-forbidden-values) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3790-fruits-into-baskets-ii) |
@@ -339,6 +340,7 @@
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3678-design-task-manager](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3678-design-task-manager) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
+| [3785-minimum-swaps-to-avoid-forbidden-values](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3785-minimum-swaps-to-avoid-forbidden-values) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3827-implement-router) |
@@ -530,6 +532,7 @@
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3583-count-special-triplets](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3583-count-special-triplets) |
+| [3785-minimum-swaps-to-avoid-forbidden-values](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3785-minimum-swaps-to-avoid-forbidden-values) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Binary Search
 |  |
@@ -643,6 +646,7 @@
 | [3075-maximize-happiness-of-selected-children](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3785-minimum-swaps-to-avoid-forbidden-values](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3785-minimum-swaps-to-avoid-forbidden-values) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Heap (Priority Queue)
