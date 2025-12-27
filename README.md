@@ -170,6 +170,7 @@
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3748-sort-matrix-by-diagonals](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3748-sort-matrix-by-diagonals) |
+| [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3790-fruits-into-baskets-ii) |
@@ -251,6 +252,7 @@
 | [3567-convert-date-to-binary](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3567-convert-date-to-binary) |
 | [3606-coupon-code-validator](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3606-coupon-code-validator) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3797-design-spreadsheet](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Prefix Sum
@@ -336,6 +338,7 @@
 | [3606-coupon-code-validator](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3678-design-task-manager](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3678-design-task-manager) |
+| [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3827-implement-router) |
@@ -607,6 +610,7 @@
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
+| [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Number Theory
 |  |
