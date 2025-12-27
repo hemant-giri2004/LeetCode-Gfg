@@ -511,6 +511,7 @@
 | [3676-smallest-number-with-all-set-bits](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3783-mirror-distance-of-an-integer](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3783-mirror-distance-of-an-integer) |
 | [3830-find-closest-person](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3830-find-closest-person) |
 ## Counting
 |  |
