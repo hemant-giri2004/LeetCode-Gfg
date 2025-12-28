@@ -78,6 +78,7 @@
 | [0926-find-and-replace-pattern](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0926-find-and-replace-pattern) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0940-fruit-into-baskets) |
+| [0944-delete-columns-to-make-sorted](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0944-delete-columns-to-make-sorted) |
 | [0948-sort-an-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0948-sort-an-array) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -223,6 +224,7 @@
 | [0778-reorganize-string](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0778-reorganize-string) |
 | [0807-custom-sort-string](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0807-custom-sort-string) |
 | [0926-find-and-replace-pattern](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0926-find-and-replace-pattern) |
+| [0944-delete-columns-to-make-sorted](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0944-delete-columns-to-make-sorted) |
 | [0953-reverse-only-letters](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0953-reverse-only-letters) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0960-delete-columns-to-make-sorted-iii) |
