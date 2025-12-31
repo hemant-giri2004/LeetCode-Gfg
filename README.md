@@ -107,6 +107,7 @@
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1917-maximum-average-pass-ratio](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1917-maximum-average-pass-ratio) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2023-design-movie-rental-system](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2023-design-movie-rental-system) |
 | [2058-concatenation-of-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2058-concatenation-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -573,6 +574,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1612-avoid-flood-in-the-city](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1612-avoid-flood-in-the-city) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -604,6 +606,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1628-count-submatrices-with-all-ones) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2625-increment-submatrices-by-one](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2625-increment-submatrices-by-one) |
@@ -989,6 +992,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0794-swim-in-rising-water) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2092-find-all-people-with-secret) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3786-total-sum-of-interaction-cost-in-tree-groups](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3786-total-sum-of-interaction-cost-in-tree-groups) |
@@ -1015,6 +1019,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0794-swim-in-rising-water) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2092-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3863-power-grid-maintenance) |
 ## Memoization
@@ -1078,6 +1083,7 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0128-longest-consecutive-sequence) |
 | [0794-swim-in-rising-water](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0794-swim-in-rising-water) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2092-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3863-power-grid-maintenance) |
 ## Segment Tree
