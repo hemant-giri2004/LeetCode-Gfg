@@ -987,6 +987,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0222-count-complete-tree-nodes) |
 | [0783-search-in-a-binary-search-tree](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0783-search-in-a-binary-search-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3786-total-sum-of-interaction-cost-in-tree-groups](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3786-total-sum-of-interaction-cost-in-tree-groups) |
 ## Depth-First Search
@@ -999,6 +1000,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0145-binary-tree-postorder-traversal) |
 | [0417-pacific-atlantic-water-flow](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0794-swim-in-rising-water) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2092-find-all-people-with-secret) |
@@ -1014,6 +1016,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0222-count-complete-tree-nodes) |
 | [0783-search-in-a-binary-search-tree](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0783-search-in-a-binary-search-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -1026,6 +1029,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0794-swim-in-rising-water) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2092-find-all-people-with-secret) |
