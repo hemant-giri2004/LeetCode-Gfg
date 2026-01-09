@@ -317,6 +317,7 @@
 | [0778-reorganize-string](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0778-reorganize-string) |
 | [0807-custom-sort-string](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0807-custom-sort-string) |
 | [0840-magic-squares-in-grid](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0840-magic-squares-in-grid) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0900-reordered-power-of-2](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0900-reordered-power-of-2) |
 | [0926-find-and-replace-pattern](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0926-find-and-replace-pattern) |
 | [0940-fruit-into-baskets](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0940-fruit-into-baskets) |
@@ -988,6 +989,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0222-count-complete-tree-nodes) |
 | [0783-search-in-a-binary-search-tree](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0783-search-in-a-binary-search-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -1003,6 +1005,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0145-binary-tree-postorder-traversal) |
 | [0417-pacific-atlantic-water-flow](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0794-swim-in-rising-water) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -1021,6 +1024,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0222-count-complete-tree-nodes) |
 | [0783-search-in-a-binary-search-tree](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0783-search-in-a-binary-search-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -1036,6 +1040,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0794-swim-in-rising-water) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
