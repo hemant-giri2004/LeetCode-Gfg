@@ -91,6 +91,7 @@
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1137-height-checker](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1137-height-checker) |
 | [1256-rank-transform-of-an-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1256-rank-transform-of-an-array) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1390-four-divisors](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1390-four-divisors) |
@@ -277,6 +278,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0724-find-pivot-index) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1603-running-sum-of-1d-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1603-running-sum-of-1d-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1895-largest-magic-square](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1895-largest-magic-square) |
@@ -588,6 +590,7 @@
 | [0794-swim-in-rising-water](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0794-swim-in-rising-water) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0907-koko-eating-bananas) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1612-avoid-flood-in-the-city](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1612-avoid-flood-in-the-city) |
@@ -622,6 +625,7 @@
 | [0794-swim-in-rising-water](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0794-swim-in-rising-water) |
 | [0840-magic-squares-in-grid](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0840-magic-squares-in-grid) |
 | [0898-transpose-matrix](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0898-transpose-matrix) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1628-count-submatrices-with-all-ones) |
