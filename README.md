@@ -165,6 +165,7 @@
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3531-count-covered-buildings](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3531-count-covered-buildings) |
 | [3533-snake-in-matrix](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3533-snake-in-matrix) |
@@ -359,6 +360,7 @@
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3531-count-covered-buildings](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3531-count-covered-buildings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3583-count-special-triplets) |
@@ -710,6 +712,7 @@
 | [2429-design-a-food-rating-system](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2434-design-a-number-container-system) |
 | [2728-sum-in-a-matrix](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2728-sum-in-a-matrix) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3678-design-task-manager](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3678-design-task-manager) |
@@ -754,6 +757,7 @@
 | [2728-sum-in-a-matrix](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2728-sum-in-a-matrix) |
 | [3336-water-bottles-ii](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3336-water-bottles-ii) |
 | [3433-count-mentions-per-user](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3433-count-mentions-per-user) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3533-snake-in-matrix](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3533-snake-in-matrix) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -883,6 +887,7 @@
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Recursion
 |  |
 | ------- |
@@ -1119,6 +1124,7 @@
 | [2023-design-movie-rental-system](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2434-design-a-number-container-system) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3678-design-task-manager](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3791-fruits-into-baskets-iii) |
@@ -1178,4 +1184,8 @@
 |  |
 | ------- |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
