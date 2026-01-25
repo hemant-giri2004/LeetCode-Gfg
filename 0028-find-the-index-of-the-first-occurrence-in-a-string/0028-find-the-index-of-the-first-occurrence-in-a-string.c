@@ -8,8 +8,7 @@ int strStr(char* haystack, char* needle) {
             return i;
         }
         i++;
-        j = 0;
-        
+        j = 0;   
     }
     return -1;
 }
