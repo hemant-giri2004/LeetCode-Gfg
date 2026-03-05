@@ -254,6 +254,7 @@
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2107-find-unique-binary-string](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2107-find-unique-binary-string) |
