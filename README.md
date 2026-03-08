@@ -115,6 +115,7 @@
 | [1917-maximum-average-pass-ratio](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1917-maximum-average-pass-ratio) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1975-maximum-matrix-sum) |
+| [1980-find-unique-binary-string](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1980-find-unique-binary-string) |
 | [2023-design-movie-rental-system](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2023-design-movie-rental-system) |
 | [2058-concatenation-of-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2058-concatenation-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -256,6 +257,7 @@
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [1980-find-unique-binary-string](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1980-find-unique-binary-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2107-find-unique-binary-string](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2107-find-unique-binary-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -348,6 +350,7 @@
 | [1612-avoid-flood-in-the-city](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1612-avoid-flood-in-the-city) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [1980-find-unique-binary-string](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1980-find-unique-binary-string) |
 | [2023-design-movie-rental-system](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2023-design-movie-rental-system) |
 | [2107-find-unique-binary-string](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2107-find-unique-binary-string) |
 | [2169-simple-bank-system](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2169-simple-bank-system) |
@@ -1122,6 +1125,7 @@
 | [0079-word-search](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0079-word-search) |
 | [0679-24-game](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0679-24-game) |
 | [0756-pyramid-transition-matrix](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0756-pyramid-transition-matrix) |
+| [1980-find-unique-binary-string](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1980-find-unique-binary-string) |
 | [2107-find-unique-binary-string](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2107-find-unique-binary-string) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2174-next-greater-numerically-balanced-number) |
