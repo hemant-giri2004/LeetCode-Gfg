@@ -102,6 +102,7 @@
 | [1580-shuffle-the-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1580-shuffle-the-array) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1603-running-sum-of-1d-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1603-running-sum-of-1d-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1612-avoid-flood-in-the-city](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1612-avoid-flood-in-the-city) |
@@ -650,6 +651,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1628-count-submatrices-with-all-ones) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1895-largest-magic-square) |
@@ -871,6 +873,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
