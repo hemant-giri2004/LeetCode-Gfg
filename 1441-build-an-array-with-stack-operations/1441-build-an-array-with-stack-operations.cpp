@@ -4,8 +4,8 @@ public:
         //simulation problem - do question says
         //because target is strictly increasing order.
         vector<string> ans;
-        int j=0;
-        for(int i=1;i<=n && j!=target.size();i++){
+        int j=0;    //to point target
+        for(int i=1;i<=n && j!=target.size();i++){  //move in range
             if(target[j]==i){ //number is needed: push it.
                 ans.push_back("Push");
                 j++;
