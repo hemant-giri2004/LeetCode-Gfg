@@ -58,6 +58,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0417-pacific-atlantic-water-flow) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0474-ones-and-zeroes](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0485-max-consecutive-ones) |
 | [0498-diagonal-traverse](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0498-diagonal-traverse) |
@@ -338,6 +339,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0389-find-the-difference) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0756-pyramid-transition-matrix](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0756-pyramid-transition-matrix) |
 | [0778-reorganize-string](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0778-reorganize-string) |
