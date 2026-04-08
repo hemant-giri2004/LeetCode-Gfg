@@ -34,6 +34,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -507,6 +508,7 @@
 | [0067-add-binary](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0202-happy-number) |
@@ -762,6 +764,7 @@
 | [0143-reorder-list](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0234-palindrome-linked-list) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
