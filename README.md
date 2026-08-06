@@ -567,6 +567,7 @@
 | [3279-alice-and-bob-playing-flower-game](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3336-water-bottles-ii](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3336-water-bottles-ii) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3433-count-mentions-per-user](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3433-count-mentions-per-user) |
 | [3462-vowels-game-in-a-string](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3462-vowels-game-in-a-string) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -690,6 +691,7 @@
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
