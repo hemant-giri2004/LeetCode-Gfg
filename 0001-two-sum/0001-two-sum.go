@@ -7,14 +7,24 @@ func twoSum(nums []int, target int) []int {
     //     }
     // }
     // return nil;
+
+    // mp:=make(map[int]int);
+    // for i,num:=range nums{
+    //     mp[num]=i;
+    // }
+    // for i,num:=range nums{
+    //     if j,ok:=mp[target-num];ok && i!=j{
+    //         return []int{i,j}
+    //     }
+    // }
+    // return nil;
+
     mp:=make(map[int]int);
     for i,num:=range nums{
-        mp[num]=i;
-    }
-    for i,num:=range nums{
-        if j,ok:=mp[target-num];ok && i!=j{
+        if j,ok:=mp[target-num];ok{
             return []int{i,j}
         }
+        mp[num]=i
     }
-    return nil;
+    return nil
 }
