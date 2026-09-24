@@ -1270,4 +1270,12 @@
 |  |
 | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/hemant-giri2004/LeetCode-Gfg/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
